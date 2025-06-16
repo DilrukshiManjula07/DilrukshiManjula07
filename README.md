@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dilrukshi Manjula</h1>
-- 🌱 I’m currently learning **SQL, Power BI**
+- 🌱 I’m currently learning **SQL, Excel, Power BI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
