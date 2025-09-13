@@ -8,41 +8,46 @@
 
 ## 🚀 Skills & Tools  
 
-### 🖥️ Development  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-
 ### 📊 Data Analytics  
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+- 📗 **Excel** (Power Query, Pivot Tables, VLOOKUP/XLOOKUP, INDEX-MATCH, Dashboards)  
+- 🐬 **MySQL** (Data Cleaning, EDA, Queries, Joins)  
+- 📊 **Power BI** (Data Modeling, DAX, KPI Dashboards, Reports)  
 
+### 💻 Development  
+- ⚡ **JavaScript**  
+- ⚛️ **React**  
+- 🌱 **Node.js**  
+- 🍃 **MongoDB**  
 ---
 
 ## 📂 Featured Projects  
 
 ### 🔹 Data Analytics & BI  
-- 📊 [MySQL Exploratory Data Analysis Project](#)  
-- 🧹 [Data Cleaning in MySQL – Full Project](#)  
-- ☕ [Coffee Sales Dashboard (Excel)](#)  
-- 🥤 [Coca-Cola USA Retailer Dashboard (Excel)](#)  
-- 📈 [Excel Sales Dashboard](#)  
-- 📱 [Power BI Mobile Sales Dashboard](#)  
-- 🏨 [Hospitality Analytics Dashboard (Power BI)](#)  
-- 🚑 [Hospital Emergency Room – Excel Dashboard](#)  
-- 🛍️ [Vrinda Store Data Analysis Dashboard (Excel)](#)  
+- 📊 [MySQL Exploratory Data Analysis Project](https://github.com/DilrukshiManjula07/MySQL_Exploratory_Data_Analysis_Full_Project.git)  
+- 🧹 [Data Cleaning in MySQL – Full Project](https://github.com/DilrukshiManjula07/Data_Cleaning_MySQL_Full_Project.git)  
+- ☕ [Coffee Sales Dashboard (Excel)](https://github.com/DilrukshiManjula07/COFFEE-SALES-DASHBOARD-Excel-.git)  
+- 🥤 [Coca-Cola USA Retailer Dashboard (Excel)](https://github.com/DilrukshiManjula07/Coca-Cola-USA_Retailer_Dashboard.git)  
+- 📈 [Excel Sales Dashboard](https://github.com/DilrukshiManjula07/Excel-Sales-Dashboard.git)  
+- 📱 [Power BI Mobile Sales Dashboard](https://github.com/DilrukshiManjula07/Power-BI-Mobile-Sales-Dashboard.git)  
+- 🏨 [Hospitality Analytics Dashboard (Power BI)](https://github.com/DilrukshiManjula07/Hospitality-Analytics-Dashboard_Power-BI.git)  
+- 🚑 [Hospital Emergency Room – Excel Dashboard](https://github.com/DilrukshiManjula07/Full-Excel-Dashboard-of-Hospital_Emergency_Room.git)  
+- 🛍️ [Vrinda Store Data Analysis Dashboard (Excel)](https://github.com/DilrukshiManjula07/Vrinda-Store-Data-Analysis-Dashboard.git)  
 
 ### 🔹 Software Development  
-- 🌐 [Golden Aura System (Final Year Project)](#) – MERN Stack E-commerce System with **Admin, Seller, Customer Dashboards**, **Real-time Chat**, and **Online Payments**.  
+- 🌐 [Golden Aura System (Final Year Project)](https://github.com/DilrukshiManjula07/Golden_Aura_System.git) – MERN Stack E-commerce System with **Admin, Seller, Customer Dashboards**, **Real-time Chat**, and **Online Payments**.  
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 Current Focus
 
-![Dilrukshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
+I am passionate about using data to drive insights and decision-making.
+Currently improving my skills in:
+
+📌 Advanced SQL for analytics
+
+📌 Power BI & Data Modeling
+
+📌 ETL Processes & Dashboard Optimization
 
 ---
 
