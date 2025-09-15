@@ -9,9 +9,10 @@
 ## 🚀 Skills & Tools  
 
 ### 📊 Data Analytics  
-- 📗 **Excel** (Power Query, Pivot Tables, VLOOKUP/XLOOKUP, INDEX-MATCH, Dashboards)  
-- 🐬 **MySQL** (Data Cleaning, EDA, Queries, Joins)  
-- 📊 **Power BI** (Data Modeling, DAX, KPI Dashboards, Reports)  
+- 📗 **Excel** (Power Query, Pivot Tables, VLOOKUP/XLOOKUP, INDEX-MATCH, Dashboards)
+- 📊 **Power BI** (Data Modeling, DAX, KPI Dashboards, Reports) 
+- 🐬 **MySQL** 
+ 
 
 ### 💻 Development  
 - ⚡ **JavaScript**  
