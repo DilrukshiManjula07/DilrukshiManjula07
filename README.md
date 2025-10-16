@@ -11,7 +11,7 @@
 ### 📊 Data Analytics  
 - 📗 **Excel** (Power Query, Pivot Tables, VLOOKUP/XLOOKUP, INDEX-MATCH, Dashboards)
 - 📊 **Power BI** (Data Modeling, DAX, KPI Dashboards, Reports) 
-- 🐬 **MySQL** 
+- 🐬 **SQL** 
  
 
 ### 💻 Development  
