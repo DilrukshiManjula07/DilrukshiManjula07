@@ -24,7 +24,7 @@
 ## 📂 Featured Projects  
 
 ### 🔹 Data Analytics & BI  
-- 🛍️ [sql-data-analytics-project](https://github.com/DilrukshiManjula07/sql-data-warehouse-project.git)
+- 🛍️ [sql-data-analytics-project](https://github.com/DilrukshiManjula07/sql-data-analytics-project.git)
 - 🛍️ [sql-data-warehouse-project](https://github.com/DilrukshiManjula07/sql-data-warehouse-project.git)
 - 📈 [Performance_Report_Power_BI](https://github.com/DilrukshiManjula07/Performance_Report_Power_BI.git) 
 - 📊 [MySQL Exploratory Data Analysis Project](https://github.com/DilrukshiManjula07/MySQL_Exploratory_Data_Analysis_Full_Project.git)  
